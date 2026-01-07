@@ -1,5 +1,5 @@
 This project demonstrates how an ANN can learn to recognize handwritten digits from pixel data.
-It includes:
+It includes::
 
 Model training using Keras
 Saving/loading the trained model
